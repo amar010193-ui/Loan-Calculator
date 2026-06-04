@@ -1,0 +1,26 @@
+{
+  "name": "UBI Loan Eligibility Calculator",
+  "short_name": "LoanCalc",
+  "description": "Union Bank of India Retail Assets Loan Eligibility Calculator 2025-26",
+  "start_url": "/Loan-Calculator/",
+  "scope": "/Loan-Calculator/",
+  "display": "standalone",
+  "background_color": "#0A1628",
+  "theme_color": "#0A1628",
+  "orientation": "portrait",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/0A1628/C8972A?text=UBI",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/0A1628/C8972A?text=UBI",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
