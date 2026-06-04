@@ -1,7 +1,7 @@
 {
-  "name": "UBI Loan Eligibility Calculator",
+  "name": "Retail Loans Eligibility Calculator",
   "short_name": "LoanCalc",
-  "description": "Union Bank of India Retail Assets Loan Eligibility Calculator 2025-26",
+  "description": "Retail Assets Loan Eligibility Calculator 2025-26",
   "start_url": "/Loan-Calculator/",
   "scope": "/Loan-Calculator/",
   "display": "standalone",
